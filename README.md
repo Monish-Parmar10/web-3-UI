@@ -16,4 +16,4 @@
 ----
 <img width="1919" height="964" alt="Screenshot 2025-12-16 153540" src="https://github.com/user-attachments/assets/55dacb25-103e-495a-8ace-363a8244377a" />
 
-
+A modern website featuring immersive 3D experiences with Three.js - including interactive icosahedron hero, particle systems, glassmorphism UI, and custom cursor. Built with Tailwind CSS, and WebGL for web development practice.
